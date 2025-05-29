@@ -16,7 +16,7 @@
 
 ## 🚀 About Me
 
-- 🎓 Master’s Candidate at CUP Beijing | 2020–2024  
+- 🎓 Master’s Candidate at CUP Beijing | Present 
 - 🏆 3rd Prize, 15th China Petroleum Engineering Design Competition (CPEDC 2025)
 - 💡 Passionate about data-driven energy solutions and operational optimization
 
